@@ -1,0 +1,15 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<kouyueming@yeah.net>
+    - icon: fa-github fa-lg
+      href: http://github.com/yuemingkou/practice.github.io/
+    - icon: fa-amazon-pay
+      href: http://github.com/yuemingkou/
+output:
+  html_document
