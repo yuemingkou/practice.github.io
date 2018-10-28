@@ -9,7 +9,5 @@ navbar:
       href: mailto:<kouyueming@yeah.net>
     - icon: fa-github fa-lg
       href: http://github.com/yuemingkou/practice.github.io/
-    - icon: fa-amazon-pay
-      href: http://github.com/yuemingkou/
 output:
   html_document
